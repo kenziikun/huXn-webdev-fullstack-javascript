@@ -19,7 +19,7 @@
 
 // belajar method string
 
-const fruits = ["mango", "banana", "apple"];
+// const fruits = ["mango", "banana", "apple"];
 // console.log(fruits);
 
 // fruits.shift();
@@ -29,9 +29,9 @@ const fruits = ["mango", "banana", "apple"];
 // fruits.unshift("rambutan");
 // console.log(fruits);
 
-const moreFruits = ["rambutan", "lengkeng", "durian"];
-// const result = fruits.concat(moreFruits);
-// console.log(result);
-const number = [1, 2, 5, 3, 4];
+// const moreFruits = ["rambutan", "lengkeng", "durian"];
+// // const result = fruits.concat(moreFruits);
+// // console.log(result);
+// const number = [1, 2, 5, 3, 4];
 
-console.log(number.sort());
+// console.log(number.sort());
